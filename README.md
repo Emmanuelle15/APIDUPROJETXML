@@ -41,7 +41,7 @@ Ceci est un projet à titre scolaire afin de consolider nos connaissances dans l
     
 - Cliquer sur le bouton play 
 
-Vous recevrez un message de la forme 
+Vous recevrez le message ci-dessous dans l'onglet JSON :
 
      {
        "status" : "OK",
