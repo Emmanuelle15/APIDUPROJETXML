@@ -13,7 +13,7 @@ Ceci est un projet à titre scolaire afin de consolider nos connaissances dans l
 - Dézipper le fichier
 - Déplacer le dossier dézippé dans le dossier www de Apache
 - Ouvrir le fichier api_xml/src/configs/DBAccess.php
-- Modifier les lignes 6, 7 et 8 du fichier.
+- Modifier les lignes 6, 7 et 8 du fichier par vos propres valeurs.
 - Démarrer le serveur Apache
 - Se connecter sur PhpMyAdmin
 - Dans la base de données indiquées au niveau de la ligne 6, créer une table T_Users avec les chapms 
