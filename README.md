@@ -1,4 +1,4 @@
-# APIDUPROJETXML
+# API DU PROJET XML
 Ceci est un projet à titre scolaire afin de consolider nos connaissances dans le domaine des web services. 
 
 ![image](https://github.com/Emmanuelle15/APIDUPROJETXML/blob/master/api.gif)
