@@ -16,7 +16,7 @@ Ceci est un projet à titre scolaire afin de consolider nos connaissances dans l
 - Modifier les lignes 6, 7 et 8 du fichier par vos propres valeurs.
 - Démarrer le serveur Apache
 - Se connecter sur PhpMyAdmin
-- Dans la base de données indiquée au niveau de la ligne 6, créer une table T_Users avec les chapms 
+- Dans la base de données renseignée au niveau de la ligne 6 du fichier api_xml/src/configs/DBAccess.php, créer une table T_Users avec les champs 
 
       -> id
       -> nom
