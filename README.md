@@ -43,10 +43,10 @@ Ceci est un projet à titre scolaire afin de consolider nos connaissances dans l
 
 Vous recevrez un message de la forme 
 
-    {
-      "status" : "OK",
-      "message" : "The neighbor has been added successfully."
-    }
+     {
+       "status" : "OK",
+       "message" : "The neighbor has been added successfully."
+     }
 
 
 
