@@ -11,7 +11,7 @@ Ceci est un projet à titre scolaire afin de consolider nos connaissances dans l
 ## Installation
 - Télécharger le fichier zippé api_xml 
 - Dézipper le fichier
-- Déplacer le dossier dézippé dans le dossier www de Apache
+- Déplacer le dossier dézippé dans le dossier www de Apache. Il est possible qu'en dézippant, vous tombiez deux fois sur le fichier api_xml, tenir compte de cela.
 - Ouvrir le fichier api_xml/src/configs/DBAccess.php
 - Modifier les lignes 6, 7 et 8 du fichier par vos propres valeurs.
 - Démarrer le serveur Apache
@@ -47,12 +47,3 @@ Vous recevrez un message de la forme
        "status" : "OK",
        "message" : "The neighbor has been added successfully."
      }
-
-
-
-        
-    
-    
-    
-    
-    
